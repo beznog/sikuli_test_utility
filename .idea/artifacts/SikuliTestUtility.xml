@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="SikuliTestUtility">
+    <output-path>$PROJECT_DIR$/out/artifacts/SikuliTestUtility</output-path>
+    <root id="root">
+      <element id="archive" name="SikuliTestUtility.jar">
+        <element id="module-output" name="SikuliTestUtility" />
+        <element id="extracted-dir" path="$PROJECT_DIR$/lib/sikulixapi-2.0.3.jar" path-in-jar="/" />
+      </element>
+      <element id="directory" name="scripts">
+        <element id="dir-copy" path="$PROJECT_DIR$/scripts" />
+      </element>
+      <element id="directory" name="resources">
+        <element id="dir-copy" path="$PROJECT_DIR$/resources" />
+      </element>
+    </root>
+  </artifact>
+</component>
