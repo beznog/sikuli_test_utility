@@ -6,7 +6,13 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9aabc1de-8b05-4caf-90b6-6c5ffd1efc4e" name="Default Changelist" comment="" />
+    <list default="true" id="9aabc1de-8b05-4caf-90b6-6c5ffd1efc4e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gmbh/cathi/sikulitestutility/environments/Win10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gmbh/cathi/sikulitestutility/environments/Win10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gmbh/cathi/sikulitestutility/environments/cathi9/Cathi9PCI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gmbh/cathi/sikulitestutility/environments/cathi9/Cathi9PCI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gmbh/cathi/sikulitestutility/main/SikuliTestUtility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gmbh/cathi/sikulitestutility/main/SikuliTestUtility.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +25,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZGranDpoFXLFvWEhSbFlPwx5fX" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -27,6 +36,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
@@ -89,10 +99,10 @@
       <screen x="67" y="27" width="1466" height="774" />
     </state>
     <state x="528" y="172" width="524" height="484" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/67.27.1466.774@67.27.1466.774" timestamp="1584481145807" />
-    <state x="551" y="284" width="488" height="259" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1584480566699">
+    <state x="551" y="284" width="510" height="289" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1584567610385">
       <screen x="67" y="27" width="1466" height="774" />
     </state>
-    <state x="551" y="284" width="488" height="259" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/67.27.1466.774@67.27.1466.774" timestamp="1584480566699" />
+    <state x="551" y="284" width="510" height="289" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/67.27.1466.774@67.27.1466.774" timestamp="1584567610385" />
     <state x="507" y="204" width="735" height="513" key="FileChooserDialogImpl" timestamp="1584516491276">
       <screen x="55" y="27" width="1865" height="1053" />
     </state>
